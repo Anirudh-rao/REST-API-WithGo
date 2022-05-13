@@ -3,9 +3,9 @@ package main
 import (
 	"net/http"
 
-	"github.com/TutorialEdge/go-rest-api-course/internal/comment"
-	"github.com/TutorialEdge/go-rest-api-course/internal/database"
-	transportHTTP "github.com/TutorialEdge/go-rest-api-course/internal/transport/http"
+	"github.com/Anirudh-rao/REST-API-WithGo/internal/comment"
+	"github.com/Anirudh-rao/REST-API-WithGo/internal/database"
+	transportHTTP "github.com/Anirudh-rao/REST-API-WithGo/internal/transport/http"
 
 	log "github.com/sirupsen/logrus"
 )

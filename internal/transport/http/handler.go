@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/TutorialEdge/go-rest-api-course/internal/comment"
+	"github.com/Anirudh-rao/REST-API-WithGo/internal/comment"
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/gorilla/mux"
 	log "github.com/sirupsen/logrus"

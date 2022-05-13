@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/TutorialEdge/go-rest-api-course/internal/comment"
+	"github.com/Anirudh-rao/REST-API-WithGo/internal/comment"
 	"github.com/gorilla/mux"
 )
 
